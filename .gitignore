@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS and IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Raw image datasets (if downloaded locally)
+data/raw/
+images/
+*.jpg
+*.jpeg
+*.png
